@@ -304,8 +304,8 @@ rituals:
   arise: carefully carve a ritual design across a handspan of its body
   construct: Rituals do not work upon constructs
   failures:
-  - You cannot harvest
   - don't have enough thanatological
+  - You cannot harvest
   - but fail to cut
   - Rituals do not work upon the undead
   - This ritual may only be performed on
